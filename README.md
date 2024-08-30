@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YxPowerupsxy
 - 👀 I’m interested in Embedded Software Engineering, Software Engineering, Robotics and stuff.
-- 🌱 I’m currently learning Artificial Intelligence using PyCharm
+- 🌱 I’m currently learning Artificial Intelligence, MERN development
 - 💞️ I’m looking to collaborate on 
 - 📫 Anything cool
 - 😄 Pronouns: ????
